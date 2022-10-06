@@ -1,0 +1,13 @@
+<application>
+  <component name="BlazeUserSettings">
+    <option name="bazelBinaryPath" value="/scratch/jconnell/rdx-code/scripts/rdx/libexec/rdx-bazel" />
+    <option name="buildifierBinaryPath" value="/scratch/jconnell/rdx-code/scripts/buildifier/buildifier" />
+    <option name="formatBuildFilesOnSave" value="false" />
+    <option name="showAddFileToProjectNotification" value="false" />
+    <option name="showBlazeConsoleOnRun" value="On error" />
+    <option name="showBlazeConsoleOnSync" value="On error" />
+    <option name="showPerformanceWarnings" value="true" />
+    <option name="showProblemsViewOnSync" value="Never" />
+    <option name="syncStatusPopupShown" value="true" />
+  </component>
+</application>

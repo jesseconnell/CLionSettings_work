@@ -1,0 +1,34 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="CopyPathFromRepositoryRootProvider">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="CopyReference" />
+  <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="FocusEditor">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="shift ctrl escape" />
+  </action>
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Stage.Compare.Local.Staged">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="GotoTest" />
+  <action id="ServiceView.ShowServices" />
+  <action id="TabShiftActions.MoveFocusUp" />
+  <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.Push" />
+  <action id="hg4idea.QFold" />
+</keymap>

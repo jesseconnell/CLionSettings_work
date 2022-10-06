@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
+      <mapping pattern="README" type="AUTO_DETECTED" />
+      <mapping ext="link" type="ObjectiveC" />
+    </extensionMap>
+  </component>
+</application>
